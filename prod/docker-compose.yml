@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+  chatbot:
+    image: dockerjeffery/chatbot:latest
+    container_name: chatbot
+    volumes:
+      - ./config.ini:/app/config.ini
