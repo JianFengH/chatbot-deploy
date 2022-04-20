@@ -1,5 +1,5 @@
 # chatbot-deploy
-This project is to deploy applications.
+This project is conveinent for the environment of development and deployment.
 
 ## dev
 ```
